@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Ingresa un valor'
+5
+1
+4
+Edad
+7
+0
+1
+24
+(Edad>=0) AND (Edad<=12)
+7
+0
+1
+23
+(Edad>=13)AND(Edad<=18)
+7
+0
+1
+23
+(Edad>=19)AND(Edad<=29)
+7
+0
+1
+23
+(Edad>=30)AND(Edad<=60)
+4
+1
+22
+'Eres un adulto mayor'
+13
+4
+1
+23
+'Eres un adulto',(Edad)
+13
+13
+4
+1
+22
+'Eres un joven',(Edad)
+13
+13
+4
+1
+28
+'Eres un adolescente',(Edad)
+13
+13
+4
+1
+14
+'Eres un niño'
+13
+1

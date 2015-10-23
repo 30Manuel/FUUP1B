@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Escribe el valor'
+5
+1
+6
+Valor1
+7
+1
+1
+16
+NOT(Cuenta)<1000
+6
+2
+8
+Subtotal
+11
+Cuenta*0.20
+5
+Total
+15
+Subtotal+Cuenta
+4
+1
+35
+'Resultado del porcentaje',Subtotal
+4
+1
+23
+'Resultado total',Total
+13
+13
+7
+1
+1
+30
+(Cuenta=1000)AND(Cuenta2=5000)
+6
+2
+9
+Subtotal2
+11
+Cuenta*0.16
+6
+Total2
+16
+Subtotal2+Cuenta
+4
+1
+37
+'Resultado del porcentaje2',Subtotal2
+4
+1
+25
+'Resultado total2',Total2
+13
+13
+7
+1
+1
+17
+NOT(Cuenta)>=5000
+6
+2
+9
+Subtotal3
+11
+Cuenta*0.10
+6
+Total3
+15
+Subtotal+Cuenta
+4
+1
+33
+'Resultado porcentual3',Subtotal3
+4
+1
+25
+'Resultado total3',Total3
+13
+13
+1

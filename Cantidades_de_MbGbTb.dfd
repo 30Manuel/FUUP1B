@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Ingrese una cantidad cualquiera en Bytes'
+5
+1
+1
+A
+6
+2
+1
+K
+6
+A/1024
+1
+M
+6
+K/1024
+6
+2
+1
+G
+6
+M/1024
+1
+T
+6
+G/1024
+4
+1
+38
+A, 'Bytes corresponde A',K,'Kilobytes'
+4
+1
+38
+A, 'Bytes corresponde A',M,'Megabytes'
+4
+1
+38
+A, 'Bytes corresponde A',G,'Gigabytes'
+4
+1
+38
+A, 'Bytes corresponde A',T,'Terabytes'
+1

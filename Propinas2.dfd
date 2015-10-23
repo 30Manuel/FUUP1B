@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'Escribe el monto total de la cuenta'
+5
+1
+5
+Monto
+4
+1
+31
+'Escribe el numero de personas'
+5
+1
+8
+Personas
+6
+1
+9
+resultado
+12
+Monto*10/100
+4
+1
+50
+'El resultado del procentaje a pagar es',resultado
+6
+1
+9
+resultado
+9
+Monto+150
+4
+1
+35
+'El resultado a pagar es',resultado
+6
+1
+9
+resultado
+13
+1650/Personas
+4
+1
+47
+'El resultado a poner por persona es',resultado
+1
